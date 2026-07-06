@@ -40,6 +40,8 @@ Business Intelligence solution developed for executive financial reporting acros
 
 ## 📈 AVIVA (FINTECH) - Financial Lending Analytics Platform
 
+<img src="https://github.com/user-attachments/assets/f6596eb2-b3cf-439f-954a-23976ee48408" width="600">
+
 Interactive FinTech analytics platform designed to monitor lending portfolios, calculate Borrowing Base and support financial decision-making.
 
 **Highlights**
