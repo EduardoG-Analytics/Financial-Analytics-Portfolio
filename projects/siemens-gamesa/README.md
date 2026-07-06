@@ -1,5 +1,10 @@
 # Siemens Gamesa Financial Reporting Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?logo=powerbi&logoColor=black)
+![SAP HANA](https://img.shields.io/badge/SAP-HANA-0FAAFF?logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![Finance](https://img.shields.io/badge/Finance-Financial%20Reporting-success)
+
 **Industry:** Renewable Energy
 
 **Business Area:** Finance & Business Intelligence
