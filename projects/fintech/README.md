@@ -1,4 +1,4 @@
-# Financial Lending Analytics Platform
+# AVIVA (FINTECH) Financial Lending Analytics Platform
 
 ![Python](https://img.shields.io/badge/Python-Data%20Engineering-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-FF4B4B?logo=streamlit&logoColor=white)
