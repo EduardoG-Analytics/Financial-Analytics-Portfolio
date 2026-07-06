@@ -15,6 +15,20 @@
 
 ---
 
+## Contents
+
+- Overview
+- Project Summary
+- Business Context
+- Business Objectives
+- Solution Architecture
+- Business Responsibilities
+- Key Financial KPIs
+- Dashboard Preview
+- My Contribution
+- Technical Stack
+- Business Value
+
 ## Overview
 
 This project demonstrates the design and implementation of a Business Intelligence solution for financial reporting and decision support within a multinational renewable energy company.
