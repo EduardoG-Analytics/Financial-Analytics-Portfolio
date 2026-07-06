@@ -17,17 +17,17 @@
 
 ## Contents
 
-- Overview
-- Project Summary
-- Business Context
-- Business Objectives
-- Solution Architecture
-- Business Responsibilities
-- Key Financial KPIs
-- Dashboard Preview
-- My Contribution
-- Technical Stack
-- Business Value
+- [Overview](#overview)
+- [Project Summary](#project-summary)
+- [Business Context](#business-context)
+- [Business Objectives](#business-objectives)
+- [Solution Architecture](#solution-architecture)
+- [Business Responsibilities](#business-responsibilities)
+- [Key Financial KPIs](#key-financial-kpis)
+- [Dashboard Preview](#dashboard-preview)
+- [My Contribution](#my-contribution)
+- [Technical Stack](#technical-stack)
+- [Business Value](#business-value)
 
 ---
 
