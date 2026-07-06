@@ -35,7 +35,7 @@
 
 ## Overview
 
-This project presents an end-to-end Business Intelligence and Financial Analytics solution developed as part of a technical business case for a lending company.
+This project presents an end-to-end Business Intelligence and Financial Analytics solution developed for a FinTech lending scenario.
 
 The platform consolidates operational and financial information to support lending decisions, portfolio monitoring, borrowing capacity analysis and executive reporting through an interactive web application.
 
