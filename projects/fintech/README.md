@@ -1,12 +1,35 @@
 # Financial Lending Analytics Platform
 
-**Industry:** Financial Services
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-FF4B4B?logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![FinTech](https://img.shields.io/badge/FinTech-Lending%20Analytics-success)
+
+**Industry:** Financial Services (FinTech)
 
 **Business Area:** Lending Analytics & Business Intelligence
 
-**Technologies:** Streamlit · SQL · Python · Pandas
+**Technologies:** Python · Streamlit · SQL · Pandas · Plotly
 
-**Focus:** Portfolio Monitoring · Borrowing Base · Financial Forecasting · Executive Dashboards
+**Focus:** Lending Portfolio Monitoring · Borrowing Base · Financial Forecasting · Executive Dashboards
+
+---
+
+## Contents
+
+- [Overview](#overview)
+- [Project Summary](#project-summary)
+- [Business Context](#business-context)
+- [Business Problem](#business-problem)
+- [Business Objectives](#business-objectives)
+- [Solution Architecture](#solution-architecture)
+- [Business Rules](#business-rules)
+- [Data Sources](#data-sources)
+- [Key Business KPIs](#key-business-kpis)
+- [My Contribution](#my-contribution)
+- [Dashboard Preview](#dashboard-preview)
+- [Technical Stack](#technical-stack)
+- [Business Value](#business-value)
 
 ---
 
