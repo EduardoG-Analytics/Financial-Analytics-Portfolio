@@ -4,7 +4,7 @@
 
 **Business Area:** Finance & Business Intelligence
 
-**Tools:** SAP HANA, Power BI, SQL, Excel
+**Technologies:** SQL · SAP HANA · Power BI · Power Query · Excel
 
 **Focus:** Financial Reporting, Forecasting & Executive Dashboards
 
@@ -61,23 +61,18 @@ The architecture emphasizes data quality, financial consistency, and interactive
 
 ---
 
----
-
 ## Business Responsibilities
 
 The solution was designed to support financial planning and reporting activities across LATAM operations by providing reliable and timely business intelligence.
 
-Key responsibilities included:
+The solution includes:
 
-- Develop executive dashboards for financial performance monitoring.
-- Analyze Forecast vs Actual results and budget deviations.
-- Monitor Material Burden allocation across Sales Orders.
-- Consolidate financial information from multiple operational sources.
-- Support monthly reporting cycles for finance stakeholders.
-- Improve reporting efficiency through automation and data modeling.
-- Ensure data consistency and quality across financial reports.
-
----
+- Executive financial reporting dashboards.
+- Forecast vs Actual performance monitoring.
+- Budget variance analysis.
+- Material Burden allocation monitoring.
+- Interactive regional reporting.
+- Financial KPI visualization.
 
 ---
 
@@ -96,4 +91,65 @@ The reporting solution was designed to support financial analysis through key bu
 
 These indicators enabled stakeholders to monitor operational performance, identify financial deviations and support business decision-making through interactive dashboards.
 
+---
+
+## Dashboard Preview
+
+The dashboard enables finance teams to evaluate forecast accuracy and maintenance cost performance through interactive filtering by country, wind farm, component and fiscal period.
+
+Key capabilities include:
+
+- Executive financial reporting
+- Forecast vs Actual analysis
+- Interactive filtering
+- Budget monitoring
+- Material Burden visualization
+- Regional performance comparison
+
+### Executive Dashboard
+
+<img width="1994" height="1114" alt="image" src="https://github.com/user-attachments/assets/5e8d5c44-4fd5-4704-97f2-93bb5db965f1" />
+
+The dashboard provides an executive overview of maintenance costs, forecast accuracy, budget deviations and financial performance across LATAM operations.
+
+### Financial Analysis
+
+> *(Dashboard screenshot will be added here.)*
+
+### Regional Performance
+
+> *(Dashboard screenshot will be added here.)*
+
+---
+
+## Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Business Intelligence | Power BI |
+| ERP | SAP HANA |
+| Data Sources | SAP Analysis for Office |
+| Data Processing | Power Query |
+| Query Language | SQL |
+| Office Tools | Microsoft Excel |
+
+---
+
+## Business Value
+
+The reporting solution provides finance stakeholders with a centralized environment for monitoring operational costs, evaluating forecast accuracy and supporting monthly financial reporting.
+
+The solution enables:
+
+• Faster financial analysis through interactive dashboards.
+
+• Improved visibility of maintenance cost performance.
+
+• Standardized KPI reporting across fiscal periods.
+
+• Better understanding of forecast deviations.
+
+• Enhanced executive decision support.
+
+The project demonstrates how Business Intelligence can transform enterprise financial data into actionable insights for business stakeholders.
   <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dc4c3745-252b-403f-85a1-2b10d630dae7" />
