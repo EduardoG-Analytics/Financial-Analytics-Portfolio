@@ -1,78 +1,57 @@
-# Business Intelligence, Financial Analytics and Decision Support Solutions
+# Financial Analytics, Business Intelligence & Decision Support
 
-Welcome to my professional portfolio.
-
-I am an engineer with experience developing Business Intelligence and Financial Analytics solutions for multinational organizations.
-
-My work focuses on transforming financial and operational data into actionable insights through financial reporting, KPI development, dashboard design, forecasting support and executive decision-making.
-
-This repository contains selected projects that demonstrate the application of Business Intelligence to solve real-world business problems.
+Portfolio of Business Intelligence solutions focused on **financial reporting**, **forecast analysis**, **budget variance monitoring**, **lending analytics** and **executive decision support**.
 
 ---
 
-## Core Competencies
-
-### Financial Analytics
+## Core Expertise
 
 - Financial Reporting
 - Forecast vs Actual Analysis
 - Budget Variance Analysis
-- KPI Development
-- Executive Reporting
-- Decision Support
-
-### Business Intelligence
-
-- Power BI
-- SQL
-- Data Modeling
-- Power Query
-- Dashboard Design
-- ETL
-
-### Enterprise Systems
-
-- SAP HANA
-- SAP Analysis for Office
-- Microsoft Excel
+- Financial KPI Development
+- Executive Dashboards
+- Lending Portfolio Analytics
+- SQL & Data Modeling
+- Power BI · Python · Streamlit · SAP HANA
 
 ---
 
 # Featured Projects
 
-## 📊 Siemens Gamesa Financial Reporting Dashboard
+## 📊 Siemens Gamesa – Financial Reporting Dashboard
 
-Business Intelligence solution developed for executive financial reporting, forecast monitoring and business decision support within LATAM operations.
+Business Intelligence solution developed for executive financial reporting across LATAM operations.
 
 **Highlights**
 
-- Executive Financial Reporting
 - Forecast vs Actual Analysis
 - Budget Variance Monitoring
-- Interactive Power BI Dashboard
+- Financial KPI Development
+- Executive Dashboards
 - SAP HANA Integration
 
 ➡️ **[View Project](projects/siemens-gamesa/README.md)**
 
 ---
 
-## 📈 Lending Analytics Platform *(Coming Soon)*
+## 📈 Financial Lending Analytics Platform
 
-End-to-end lending analytics solution developed as part of a technical business case.
+Interactive FinTech analytics platform designed to monitor lending portfolios, calculate Borrowing Base and support financial decision-making.
 
-The project includes portfolio monitoring, Borrowing Base calculations, financial KPIs, forecasting and an interactive Streamlit application.
+**Highlights**
 
-➡️ Project under development
+- Borrowing Base Calculation
+- Portfolio Monitoring
+- Financial Forecasting
+- ETL Automation
+- Interactive Streamlit Application
 
----
-
-## Professional Interests
-
-I am interested in designing Business Intelligence and Financial Analytics solutions that bridge financial reporting, business analysis and decision support within enterprise environments.
+➡️ **[View Project](projects/aviva/README.md)**
 
 ---
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/eduardo-gómez-moreno-a3b547291
-- Email: eduardo.gomezm@outlook.com*
+- **LinkedIn:** www.linkedin.com/in/eduardo-gómez-moreno-a3b547291
+- **Email:** eduardo.gomezm@outlook.com
