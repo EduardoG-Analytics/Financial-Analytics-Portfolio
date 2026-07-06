@@ -187,8 +187,6 @@ My contribution included:
 
 ---
 
----
-
 ## Dashboard Preview
 
 <img width="1728" height="234" alt="image" src="https://github.com/user-attachments/assets/edcb4023-0994-4fc8-880f-c3f41c731789" />
