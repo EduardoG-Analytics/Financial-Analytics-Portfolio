@@ -74,5 +74,5 @@ I am interested in designing Business Intelligence and Financial Analytics solut
 
 ## Contact
 
-- LinkedIn: *(tu LinkedIn)*
-- Email: *(tu correo profesional)*
+- LinkedIn: www.linkedin.com/in/eduardo-gómez-moreno-a3b547291
+- Email: eduardo.gomezm@outlook.com*
