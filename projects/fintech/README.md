@@ -164,6 +164,37 @@ My contribution included:
 
 ---
 
+---
+
+## Dashboard Preview
+
+<img width="1728" height="234" alt="image" src="https://github.com/user-attachments/assets/edcb4023-0994-4fc8-880f-c3f41c731789" />
+
+
+The application provides an interactive environment for monitoring lending portfolios, evaluating collateral eligibility and supporting financial decision-making.
+
+### Borrowing Base Trend
+
+<img width="2620" height="1026" alt="image" src="https://github.com/user-attachments/assets/54898aa9-5cc8-4568-9a36-eec3955222b2" />
+
+Historical Borrowing Base evolution together with a four-week forecast.
+
+### Portfolio Composition
+
+<img width="2638" height="1048" alt="image" src="https://github.com/user-attachments/assets/5bccf597-fde6-4289-b5a3-c8eaf62fd326" />
+
+Borrowing Base composition showing the contribution of existing and new loans over time.
+
+### Portfolio Summary
+
+<img width="2592" height="1014" alt="image" src="https://github.com/user-attachments/assets/c8474989-7dcf-411e-9366-c1063e7fe28a" />
+<img width="2414" height="518" alt="image" src="https://github.com/user-attachments/assets/e70faf7c-9de7-49ab-b927-a4140bdb289d" />
+
+
+
+Weekly portfolio evolution including loan activity, Borrowing Base changes and short-term forecasting.
+
+
 ## Technical Stack
 
 | Category | Technologies |
