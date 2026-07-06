@@ -24,4 +24,33 @@ This solution was developed to improve visibility into financial information by 
 - Enhance executive visibility through interactive dashboards.
 - Reduce manual reporting activities.
 
+---
+
+## Solution Architecture
+
+The solution follows a Business Intelligence workflow designed to transform raw enterprise data into executive-level financial insights.
+
+```text
+Enterprise Data Sources (SAP HANA / Financial Records)
+                    │
+                    ▼
+          Data Extraction & Transformation
+                    │
+                    ▼
+             Data Modeling (Power BI)
+                    │
+                    ▼
+       Financial KPIs & Business Logic
+                    │
+                    ▼
+        Interactive Executive Dashboard
+                    │
+                    ▼
+      Decision Support & Financial Analysis
+```
+
+The architecture emphasizes data quality, financial consistency, and interactive reporting to facilitate informed decision-making across business functions.
+
+---
+
   <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dc4c3745-252b-403f-85a1-2b10d630dae7" />
