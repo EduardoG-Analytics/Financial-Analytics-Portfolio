@@ -21,6 +21,9 @@ Portfolio of Business Intelligence solutions focused on **financial reporting**,
 
 ## 📊 Siemens Gamesa – Financial Reporting Dashboard
 
+<img src="<img width="1000" height="641" alt="image" src="https://github.com/user-attachments/assets/cab58e8f-5b4b-4ff1-9285-26ed77c737e0" />
+" width="650">
+
 Business Intelligence solution developed for executive financial reporting across LATAM operations.
 
 **Highlights**
