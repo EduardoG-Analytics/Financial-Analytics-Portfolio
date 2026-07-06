@@ -35,7 +35,7 @@ Business Intelligence solution developed for executive financial reporting acros
 
 ---
 
-## 📈 Financial Lending Analytics Platform
+## 📈 AVIVA (FINTECH) - Financial Lending Analytics Platform
 
 Interactive FinTech analytics platform designed to monitor lending portfolios, calculate Borrowing Base and support financial decision-making.
 
@@ -47,7 +47,7 @@ Interactive FinTech analytics platform designed to monitor lending portfolios, c
 - ETL Automation
 - Interactive Streamlit Application
 
-➡️ **[View Project](projects/aviva/README.md)**
+➡️ **[View Project](projects/fintech/README.md)**
 
 ---
 
