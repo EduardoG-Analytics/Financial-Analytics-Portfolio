@@ -144,6 +144,8 @@ The dashboard provides finance teams with an interactive environment for monitor
 
 <img width="1994" height="1114" alt="Financial Dashboard" src="<img width="1280" height="720" alt="SIEMENS CP" src="https://github.com/user-attachments/assets/17208edd-4db5-40a4-8d10-c40c9532c5fa" />
 " />
+<img width="1280" height="720" alt="SIEMENS CP" src="https://github.com/user-attachments/assets/d11fbf8a-e6e4-46ae-8708-09f59fe7510c" />
+
 
 The dashboard provides an executive overview of maintenance costs, forecast accuracy, budget deviations and financial performance across LATAM operations.
 
